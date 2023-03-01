@@ -7,6 +7,6 @@ About me:  I'm currently a faculty member in the Department of Business Analytic
 
 My Interests:  Hiking, Iowa Women's Basketball, Traveling to National Parks
 
-GitHub:  Please take a look at my repositories:  https://github.com/kaarens 
+GitHub:  Please take a look at my repositories: <a href="https://github.com/kaarens"> Kris Arens GitHub </a>
 
 Thank you for stopping by.
