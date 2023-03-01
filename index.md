@@ -8,3 +8,5 @@ About me:  I'm currently a faculty member in the Department of Business Analytic
 My Interests:  Hiking, Iowa Women's Basketball, Traveling to National Parks
 
 GitHub:  Please take a look at my repositories:  https://github.com/kaarens 
+
+Thank you for stopping by.
